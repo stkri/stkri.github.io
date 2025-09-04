@@ -1,5 +1,9 @@
 [book]
-authors = ["Swissmichi"]
+authors = ["Stepan Khristolyubov"]
 language = "en"
 src = "src"
 title = "Nachhilfe PT und IN"
+
+[output.html]
+git-repository-url = "https://github.com/stkri/pt-in-nachhilfe"
+edit-url-template = "https://github.com/stkri/stkri.github.io/edit/{path}"
